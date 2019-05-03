@@ -10,5 +10,5 @@ Tool / techniques / features
 * Gets forecast of current weather using device location.
 
 
-*2 hrs internal api is not completed rest is done
+
  https://ibb.co/3dDjVBC https://ibb.co/HVbcd06 https://ibb.co/nc38NN4
